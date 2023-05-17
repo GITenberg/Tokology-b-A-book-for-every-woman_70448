@@ -1,0 +1,33 @@
+_repo: Tokology-b-A-book-for-every-woman_70448
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Stockham, Alice B. (Alice Bunker)
+    alias: Stockham, Alice Bunker
+    birthdate: 1833
+    deathdate: 1912
+    gutenberg_agent_id: '55728'
+    url: http://www.gutenberg.org/2009/agents/55728
+    wikipedia: https://en.wikipedia.org/wiki/Alice_Bunker_Stockham
+description: ''
+gutenberg_issued: '2023-04-03'
+identifiers:
+  gutenberg: '70448'
+language: en
+pgterms:marc904: https://archive.org/details/tokologybookfore00stocrich/page/n7/mode/2up
+pgterms:marc905: 20220807165436stockham
+pgterms:marc906: '1883'
+pgterms:marc907: US
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aUnited States :$bR. F. Fenno & Company, $c1883, copyright 1886,
+  copyright 1893.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women -- Health and hygiene'
+- !lcc 'RG'
+- GITenberg
+title: 'Tokology : $b A book for every woman'
+url: http://www.gutenberg.org/ebooks/70448
